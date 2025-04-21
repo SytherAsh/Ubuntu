@@ -1,0 +1,4 @@
+{
+    "files.autoSave": "afterDelay",
+    "python.createEnvironment.trigger": "off"
+}

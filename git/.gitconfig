@@ -1,0 +1,7 @@
+[user]
+	email = sawash3072@gmail.com
+	name = YASH
+[credential]
+	helper = store
+[http]
+	postBuffer = 524288000

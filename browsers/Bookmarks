@@ -1,0 +1,310 @@
+{
+   "checksum": "b6f09a1a36048c8dd9d821f7b233637a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13316340304041815",
+            "date_last_used": "13387529486440618",
+            "guid": "c89219ed-4463-4c6c-b96f-34a5069a494b",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13316340304052365",
+            "date_last_used": "13386093525340121",
+            "guid": "99300bce-c149-4d54-a45d-3609578d8a5a",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13316340304054214",
+            "date_last_used": "0",
+            "guid": "85daab1b-046c-42cc-9d0f-28807ab9cb4d",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13316340310547238",
+            "date_last_used": "0",
+            "guid": "b4f8fdcc-bcdb-47ef-8ddb-5a041c22069a",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "News",
+            "type": "url",
+            "url": "https://news.google.com/"
+         }, {
+            "date_added": "13346689990798272",
+            "date_last_used": "0",
+            "guid": "d4d3e7d2-cdf9-4163-bb68-73a465fc09dc",
+            "id": "10",
+            "name": "Adobe Acrobat",
+            "type": "url",
+            "url": "https://acrobat.adobe.com/?x_api_client_id=bookmark&x_api_client_location=Reader"
+         } ],
+         "date_added": "13382342780002022",
+         "date_last_used": "0",
+         "date_modified": "13346689990798272",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13354993943857693",
+            "date_last_used": "0",
+            "guid": "98db5ec7-c170-4d4a-a5e4-cef6662ffaf9",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Meet - bpg-chmz-scc",
+            "type": "url",
+            "url": "https://meet.google.com/bpg-chmz-scc"
+         } ],
+         "date_added": "13382342780002027",
+         "date_last_used": "0",
+         "date_modified": "13354993943857693",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13316722161234822",
+               "date_last_used": "0",
+               "guid": "5d2df6f5-f315-48be-abc4-6e7c3047b822",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "MOODLE",
+               "type": "url",
+               "url": "https://moodle.spit.ac.in/course/view.php?id=1771"
+            } ],
+            "date_added": "13292947488547696",
+            "date_last_used": "0",
+            "date_modified": "13316722161234822",
+            "guid": "be4207f4-2174-4e50-aceb-3151d6f91e3f",
+            "id": "11",
+            "name": "Yash",
+            "type": "folder"
+         }, {
+            "date_added": "13249458024195880",
+            "date_last_used": "0",
+            "guid": "f94e5aa3-672b-4bc8-afce-a3f35dba3eef",
+            "id": "13",
+            "name": "The Pirate Bay - Search Movies, Torrents | ThePirateBay.org",
+            "type": "url",
+            "url": "https://2piratebay.org/"
+         }, {
+            "date_added": "13251041111748054",
+            "date_last_used": "0",
+            "guid": "7a6b10c8-62c5-46e5-9a6b-db15b3dcd722",
+            "id": "14",
+            "name": "Watch Jungle Cruise (2021) Full Movie Online Free | Stream Free Movies & TV Shows",
+            "type": "url",
+            "url": "https://nimotv.xyz/movie/451048/jungle-cruise.html"
+         }, {
+            "date_added": "13254230655453851",
+            "date_last_used": "0",
+            "guid": "25f0c1fb-cebe-49e1-8466-c4677ec648a1",
+            "id": "15",
+            "name": "SOAP2DAY",
+            "type": "url",
+            "url": "https://soap2day.to/search/keyword/Prodigal%20son"
+         }, {
+            "date_added": "13254936176678439",
+            "date_last_used": "13323548029516952",
+            "guid": "d27147d1-c520-4751-a526-e191604c63d6",
+            "id": "16",
+            "name": "Home Page - Watch the Latest Movies and TV Shows for Free on Flixtor.to",
+            "type": "url",
+            "url": "https://flixtor.to/home"
+         }, {
+            "date_added": "13256023770950302",
+            "date_last_used": "0",
+            "guid": "f65a4c9e-30c4-4a53-9a92-4f75191b58e7",
+            "id": "17",
+            "name": "The Pirate Bay - The galaxy's most resilient bittorrent site",
+            "type": "url",
+            "url": "https://piratebay.party/recent"
+         }, {
+            "date_added": "13263393769872653",
+            "date_last_used": "0",
+            "guid": "487496d3-e8a6-430a-a144-fdeecb718197",
+            "id": "18",
+            "name": "UWatchFree | Watch Movies and TV-Series Online Free",
+            "type": "url",
+            "url": "https://www.uwatchfree.nu/"
+         }, {
+            "date_added": "13263499482118962",
+            "date_last_used": "0",
+            "guid": "581b7865-6b50-4965-a3cc-1219257fa1fe",
+            "id": "19",
+            "name": "MEGA",
+            "type": "url",
+            "url": "https://mega.nz/fm"
+         }, {
+            "date_added": "13264690084809568",
+            "date_last_used": "0",
+            "guid": "3dd46e6b-0838-4d42-9bdd-e55471d52474",
+            "id": "20",
+            "name": "MyFlixer | Watch WandaVision (2021) Online Free on myflixer.ru",
+            "type": "url",
+            "url": "https://www3.myflixer.ru/series/wandavision-3poyy"
+         }, {
+            "date_added": "13281612954450966",
+            "date_last_used": "0",
+            "guid": "c3243599-f01d-4d98-b590-1a54e5d0efb8",
+            "id": "21",
+            "name": "Watch Bajirao Mastani 2015 full HD online free - SOAP2DAY",
+            "type": "url",
+            "url": "https://soap2day.rs/watch-movie/watch-bajirao-mastani-full-10384.2520908"
+         }, {
+            "date_added": "13293106715749811",
+            "date_last_used": "0",
+            "guid": "e5416125-1226-4811-90ae-cf82c02e36fe",
+            "id": "22",
+            "name": "JEE Main 2021 (July) Chapter-wise Questions | MathonGo",
+            "type": "url",
+            "url": "https://www.mathongo.com/dw/jee-main-chapter-wise-questions/jul-2021?subject=Mathematics"
+         }, {
+            "date_added": "13312358759468786",
+            "date_last_used": "0",
+            "guid": "e80c0a03-a1d2-4536-824e-ee170a9c5558",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SOAP2DAY",
+            "type": "url",
+            "url": "https://soap2day.ac/"
+         }, {
+            "date_added": "13319701217773451",
+            "date_last_used": "0",
+            "guid": "a4588ba2-8323-47cb-9196-4e8e46bc2586",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Application Status",
+            "type": "url",
+            "url": "https://sarathi.parivahan.gov.in/sarathiservice/applViewStages.do"
+         }, {
+            "date_added": "13326720955611805",
+            "date_last_used": "0",
+            "guid": "3fd795c0-5931-41ee-b3b9-51dcb401d19a",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NOTES - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/folders/1oIDN7BcH2Xw2mS0xc55Dgf4f6trhL08g"
+         }, {
+            "date_added": "13326908441966190",
+            "date_last_used": "0",
+            "guid": "dfbd5293-f98d-4b0f-b4d3-026818e75fe5",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Wokwi - Online Arduino and ESP32 Simulator",
+            "type": "url",
+            "url": "https://wokwi.com/"
+         }, {
+            "date_added": "13337372066144134",
+            "date_last_used": "0",
+            "guid": "c30c00a7-5fa1-4503-b792-931278337665",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Robo Route Rumble Competition",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSdghcFu7BOteUTe9wXlUnbq5QcF3AO29MCc3g4SzkNeJzmDrA/formResponse?pli=1"
+         }, {
+            "date_added": "13341819821336664",
+            "date_last_used": "0",
+            "guid": "1402f008-c2b0-4538-8b2c-12337b113129",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bollywood Movie Free | Movierulz",
+            "type": "url",
+            "url": "https://ww7.5movierulz.gg/bollywood-movie-free/"
+         }, {
+            "date_added": "13364313423348559",
+            "date_last_used": "0",
+            "guid": "d4bc3e86-a73e-4f3c-b079-7ba2a408b1e9",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mahabharata : C. Rajagopalachari : Free Download, Borrow, and Streaming : Internet Archive",
+            "type": "url",
+            "url": "https://archive.org/details/mahabharta00craj/page/16/mode/2up"
+         }, {
+            "date_added": "13370592798450234",
+            "date_last_used": "0",
+            "guid": "a9f76eb8-25e8-4106-8b27-483935f18e85",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Placement_prep_checklist",
+            "type": "url",
+            "url": "https://nice-verse-5b3.notion.site/Placement_prep_checklist-c0a637f0925c455a996623059e08477f"
+         }, {
+            "date_added": "13381656837529779",
+            "date_last_used": "0",
+            "guid": "2c73c3d0-200f-4183-9bdb-24f0dced809e",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Indian GenAI Startup Tracker: Meet 60+ Startups Putting India On Global Map",
+            "type": "url",
+            "url": "https://inc42.com/startups/indian-genai-startup-tracker/"
+         }, {
+            "date_added": "13386611420787878",
+            "date_last_used": "0",
+            "guid": "a75ab300-6644-40fa-9d21-44739e248571",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SPIT FE / CSE / Blog Articles · GitLab",
+            "type": "url",
+            "url": "https://gitlab.com/spit-fe/cse/blog-articles"
+         } ],
+         "date_added": "13382342780002032",
+         "date_last_used": "0",
+         "date_modified": "13386611420787878",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCcd5IwlqMQYAEcd5IwlqMQYAKRZbJQlqMQYAEgAqGHV2N3B4ZWpCTVB4Z2pxYTVpVFhQMUE9PUgDEu4BCB0S6QEKHEpBbkdKS2tMTlNDbEZJd25jWE1ZRDg3aHltaz0SZlo6QURxdEFaelZ4QWloSjkzYVY0TTN6TTV5Y0pPTjVYMWFRS1Z6cmJ0dzlQL0pHQW1UaFRCSzFuM29JbFFoY1dFbVRuc3dIOWxUZkNDRWg3WFo1anJ2RTBjSSsrRVpkQ25YcWc9PRgAIAAoADCB7uHP9oWHAzj2q8TzhjJA9qvE84YyShxuK01KS1ozQ25iRVpwL0N6YXNDd2t0WVViSHM9WiEiH///72pmSkwwSDJicGFQc0VtdWc4SStzTlgyNExEdz1lNCRTExLuAQgcEukBChxaUlFmMnhzb3JRRkUrTVJpSDNkQW5lbmRlUHc9EmZaOkFEcXRBWnpWeEFpaEo5M2FWNE0zek01eWNKT05jYWRVVXBVTWphYjJjTzlFd2pmN0FtWnljUTdBUFZHZVQrTWpMVjhVcTBWbFV4ek02bXFycEZmSDM3Y1lJU2xFODhOM0RBPT0YACAAKAAw1v3ctaP3gQM4nurfjbMxQJ7q342zMUocU2xWdDVUVFh1dnBZT0VSWFRUdEpzT2piVXY4PVohIh///95XUU0zckc5NzY0ME05MkpGLy9OTlBnWWMyT289ZbfY4wAS7gEIGxLpAQocYU5vcG1KMERtVm1ZNGtLRDJ5VFNLZGwyUmg4PRJmWjpBRHF0QVp6VnhBaWhKOTNhVjRNM3pNNXljSk9ObHYxMDhYTUdHVUlXZ3hWV0RtekZxWHIrU3VORC9LQ2VRZzhhb3BBd0RzR0UzMGVENmlZUnNYNDVZMXkyRm1FZndDSlpXdz09GAAgACgAMKn6+Z7q9YADOOCy8sSiMUDgsvLEojFKHE80TG1kaUkwZUt2MWZwcUtNcG16RjE0ZFZ1MD1aISIf//+8SERlYTIzbnlIbjFSK3VtTzg2RjJsblRqTndFPWXJcLTREq0CCBISqAIKHHVhZ0dneTVjMm9LYWJONlR2bVJQazlPMDg5WT0SpgFaOkFEcXRBWndmZkhRMWRnc1p5d0VqK0F3UXNYS3luN2pha1VITmFaV0ljQzRwUlFReFB1c0lsVTFRcXU3bmRMUDdxRkFOYXJGTVNOM3VOSGxVaUNUOFhIenB3NnkrcGZTMTZqTENIbUR6dFVnM01JNlJUVmNQMUxNMUtCRGRTWmJ1V0tiMUw2STg2cHlOb2R6ZTlqNVZCbFVITWRBSitwSkVxZz09GAAgACgAMKOi98uL6fYCOJHDpfmOL0CRw6X5ji9KHDM3a1UrZTc2UkpseEE5b3NUK3U4UGpia0g5TT1aHyId/1BiV2ZUUW8zL2ltZ1F6dTU5dWsvTDJvSHZ4ST1lcpF2kBLuAQghEukBChxxaWJvbEcwVE5GWjdYTitOQ0VaZlVaZFFVTWM9EmZaOkFEcXRBWnpWeEFpaEo5M2FWNE0zek01eWNKT055OHVZaGl1Rm9WVlBNRzZ3bnNBTWp2Wjk3a0ZPQ3NFSGU0N0QwMyt3VVVET1dMaG5oQ2VnMzkyVVVXczJSZ0JiWkRLdm9BPT0YACAAKAAwr4aFkfGOjAM494yG/NkyQPeMhvzZMkocU3FSN1ZWbUdBM3pENjJLRzl3dWFUWVZFRTRvPVohIh////1PeTJhN0FTQlFUMWp4cmNPVFFxckJJSGRONjQ9ZQBwDLMSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5UFdwTWNxRzErQzd0d2ZiRXRVdFlNaFE1dHpadGlxdXBKMkhMZGdTTzFFVGNhaE0wK0Z1V3hKb3J5dnhTZnVBcStrU216Si8wMUFpcDJia0RWWnRUM2FXNjBaQT09GAAgACgAMNz1xKjTkosDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASrQIIERKoAgocdnBnZ3ZoYUdTUjVUSytybnBjaHo2QWNKWGJZPRKmAVo6QURxdEFad2ZmSFExZGdzWnl3RWorQXdRc1hLeW43amFrVUhOYVpXSWNDNHBSUVF4UG5Xakd0Z1hBT24zVlh2UE5WeGx0S3pqT2IrN1NFMnhwMlVWYWNxSURxV2F3S3RJV0FLOUp3OXFNU3QxdjhEdzdvYWdEWElsdmtUanc5TDFVQlp2RzZyVVFCTHluWDZ3MWFleGdSRlVGV1R3cEVjV0NBPT0YACAAKAAwo6L3y4vp9gI4yL6Av/MuQMi+gL/zLkocREtzbzlsekhubmNBVGZTVW9qeEhKRmFGUXV3PVofIh3+eVZUSXhSQVV3R0RzUGgxU0ZaTFZMVnpEdHg0PWUE5rWUEq4CCBQSqQIKHHN0QUFSZHBTbXd5OS80R2VvSkxncEVJVUVQVT0SpgFaOkFEcXRBWndmZkhRMWRnc1p5d0VqK0F3UXNYS3luN2pha1VITmFaV0ljQzRwUlFReFBoMTJWcVBhVExnM1lMUkltV1IrQ2tUdkVodUNwTUQ4RDJ3eWpDNTRKVXY4TFlockU3YnV2YVFMWXFYWTRxcUtLV2ZqZzdhaFRoU1lPR1JLTk1HQm9ja0c0YnFMVE1ZNnBJemhxc0lBUVhUWkd2SHZzQT09GAAgACgAMKOi98uL6fYCOMqntuOTL0DKp7bjky9KHER1M3V2QUVCTVpmS0p6anpuUnU1WVlkcitEYz1aICIe/7QzN2NzZkN0WUN3cXRjNmZpa3VubjBqZWNYeEk9ZTxu6BcSrQIIExKoAgocSHFRUi9KeTZUcUVOcFRYUVN5a2lqa0NZdTlzPRKmAVo6QURxdEFad2ZmSFExZGdzWnl3RWorQXdRc1hLeW43amFrVUhOYVpXSWNDNHBSUVF4UGloWnNaVjU0d0hXY1FhQVJUOWZuQXZtczdEVGZGemswalpNQVJXU3M5ak5vY1h3ck1VZzZWZk5yNG9JNGdLY29SZlRjOVIwb0M1SnBWVFRCVUdFYndYS2Q0MFBYbGpQVkdFcE51N01CNVRmTGZLMUpBPT0YACAAKAAwo6L3y4vp9gI4idjZq48vQInY2auPL0ocR0RESnZ0WTBabkF6dUkwZnRneDBCN1JaYnpFPVofIh3/aFlBTjZ3T0VpYnhiN1VTSTdGY3JtZUJuczFRPWWFyf3WEqwCCA4SpwIKHFdWNUV0UytkL0Vyb0R1djVreXpaV3B5MFZTQT0SpgFaOkFEcXRBWndmZkhRMWRnc1p5d0VqK0F3UXNYS3luN2pha1VITmFaV0ljQzRwUlFReFBzNzN5S3lRRmY0djdSK0xTazllUXJaQVhaMWVhSlMrRVoyb0diTTloS1J5NTZTRDVveUFHK1EzbXhFd0VjMTVXUEZqdjFJMXVPNG1RelZtZ2RxK3hOSTA3TisxN3RUTThkaXllMmNhYzI0cUM2TUMzZz09GAAgACgAMKOi98uL6fYCOMaNi/fgLkDGjYv34C5KHHQya3dOUXY0RkxqbVNWTFlUazR1RGpTejhRTT1aHiIcd0VxcmNvWUI3dVZpalQ4NG4yL3Y2VTYzK0o4PWUQ6eyrEusBCAgS5gEKHFlCUkdIcUR4aVZCMDNxRlNxRDQwM0cwWlNQOD0SZlo6QURxdEFaelZ4QWloSjkzYVY0TTN6TTV5Y0pPTllVQ0RJSnRxUkMvUngxOFhTek01cG5NSmdmZ0hPS1ZyUlg4QnpvZzFiSUpDeG9yNXVicUVaaU1BbEJONWtJdjZtdTRRMXc9PRgAIAAoADCazMHJyqaGAzju/5qY1DBA7v+amNQwShw1V3JxSlNvQUJaejJKSmhvR2dCSG1qbUlMajg9Wh4iHHZ5VkFUSzJ3R1RhUWZVOXJmQlBjZnVtRGE5Zz1lnpCbghLtAQgYEugBChwvc29udDEzbFY5THZwdHJIbERJdExGelMxcm89EmZaOkFEcXRBWnpWeEFpaEo5M2FWNE0zek01eWNKT05RSFhsUTk3TW5PVDBkNkljeHhJaEQrdjlIOU93RWRJdFZTckhlRUtkVnpCU3dpUWdZTnRkbFEwOUpZSnAvZkpGSlFqNmZRPT0YACAAKAAw35j9mcXz/AI47rPj2uAwQO6z49rgMEocRUUyNHZ6K2xPdnVxTEFqamNMa1lmU2lGcjBrPVogIh7//1c1Q3hNdWJqOUVwbmNvU2k5L05aMHFsRS9PYz1lWAu9lBLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnhqZkNiUW5aaHdTK092QkM0dmV5MFArSlJwTGVlc3FZbk1icU1vVzFDa1phNUFWUmFzRktMRWU3WkIyT2JpU2g2WHJMbXY4TVhTbGIwTVV2ME1RSEk1VUJBQ0hRPT0YACAAKAAw3PXEqNOSiwM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKtAggQEqgCChw1U2NsZGdWUFFrd0tHOUNIZFBkWnhRRllXZ3M9EqYBWjpBRHF0QVp3ZmZIUTFkZ3NaeXdFaitBd1FzWEt5bjdqYWtVSE5hWldJY0M0cFJRUXhQaFpUVUF2Q1BIWGplN0JMY3k2SDI4T2JDVkxoenFaVEpScVFEMU1uMHROdlVWQ0t5UklvbHJFNndKcmE3MVVzSWdKL1VseDlnalBiYjlSUkFQbS9QbFRCQWpkNStxdzg2a0NoODI3aHJJRGs4aE5JbXc9PRgAIAAoADCK/q6jzoqFAziogLO47y5AqICzuO8uShw5RkRlNUlDdkhHZzVUaVA3WEszMjg5ZkNqUG89Wh8iHft3dzZiWWhBZGovZjNrWTk3cWt6SWREYU9zeHc9ZTFLBQQS7QEIFhLoAQocYTM1Q0kvbVhyS3JGOWNDclB3U0pFQzA0WlFNPRJmWjpBRHF0QVp6VnhBaWhKOTNhVjRNM3pNNXljSk9OaWkydDZ4aXN6TWNScFVneENiNjU4dVVzNnJYbWdMRnBMVmx0YUMyQ1FEeTZ5elV3amRyeVYrY200TE8zZCtOWWloVmpzUT09GAAgACgAMKfe5PvE7fYCOObow9H9L0Dm6MPR/S9KHE9WVGVyOWtTUkcxVFpDSGpuVG56VFVWMzU2ST1aICIe/+1iRjdyUTljL2UwMjY2SjYvam5sU0E1UDkyaU09ZY1g7e0S7QEIFxLoAQocN1EraGtjZHVzV0dJem5LVnkyeCtCOENXWlQwPRJmWjpBRHF0QVp6VnhBaWhKOTNhVjRNM3pNNXljSk9ONjNidVVFRUYraExtU28vV2VsTVByVUZ6MnpYZzFHdDdKYjNINkxINldBdUZEN0JVcGF4K25UUVByMysydjR6bUxBNU4yUT09GAAgACgAMOKkrMzI6YIDOK2oz63FMECtqM+txTBKHExpZ2VuQkpsU0M1ckxxdzA1aDBwWVV0b3BvUT1aICIe//1wSEtCLzVZcW4vVHZRbW5YdUwySlhWTnZ3aG89ZQTfXYcS7gEIHxLpAQocbE5LZHlySGFsdFBoM25JdEhRWFZpVk9TSWhJPRJmWjpBRHF0QVp6VnhBaWhKOTNhVjRNM3pNNXljSk9OTTFWMmtuZURCVUEvQUlZcUxNaEhHbHhCYXBHMnRSUVUyQ0g0SVpOMVhzUTRKRlFFZWJvNStSMjZqOW10MW5jOFptT2ZmUT09GAAgACgAMKqYrO/X/ooDOJurwsHHMkCbq8LBxzJKHFVrWTh4K0U0YWsvMmJwalk4SGpZdGFoWis4ST1aISIf///7S01JNS9NRXVpQno4VFAvcXNXVE5iYXFRZzdrPWUPfiMAEq0CCAsSqAIKHHJYSDBrMk9tZUY5U0dDMGtZbytBakZqbDFhZz0SpgFaOkFEcXRBWndmZkhRMWRnc1p5d0VqK0F3UXNYS3luN2pha1VITmFaV0ljQzRwUlFReFBzYXZaNmM4YksySkkvK3RQZlVvSEVwU09kWWR6NEZEYm5TNjVkaEZwcmVKYk0vV2U4WGZVMmphY3FIbm96ckhUTUkvMEdkVTdhKzl1TkZYVjdGS0ZoK3djbThtMjF5amU3MUdvK2tESGJiYjcvcU5sQT09GAAgACgAMP2u08uL6fYCOPyN+q3FLUD8jfqtxS1KHDU0RU9SRU9uZHBWV0Z1a2lxVmRjMnkxK3F3OD1aHyIdFzhpRERYVWpwMFUvYXQrbXdaVTlWa3plVGNrZz1lAAAAABLuAQgeEukBChxpOGZ5MFVXSEFNV2RQcVcveFFST3RIdlVjL1k9EmZaOkFEcXRBWnpWeEFpaEo5M2FWNE0zek01eWNKT05rL2ZVVDg4azhIL3lnd2tzQmNOdXhVL0NhYmV0V1RQM1RXc0gxNTVFUXJLbWhSZ3RsNWU0R1pCZHdyMCsvL0I2WCtaVGhnPT0YACAAKAAw0L/Wjte8iAM48/3ipZ4yQPP94qWeMkocVWNBcHJuSFJ0UWJlUGFoRmRhSi9kd09HUlpBPVohIh////c5VXRFV0N1QkV6Sktjd2N3emdOaStWN0FHMjA9ZUPscrQS7QEIFRLoAQocUlpRUkc1SGxGaU9sV2xJanF1Yk9yVTlHdDRZPRJmWjpBRHF0QVp6VnhBaWhKOTNhVjRNM3pNNXljSk9OdFE3d0F0L2ZCN1hra1BIRWN1a08vV2tOV21RR09BZWxGY3BGRmlLcUZoL2Izc2x5QURSbmtwQUY5ME80M2hqSFhQSi9iZz09GAAgACgAMKOi98uL6fYCONOm8OjSL0DTpvDo0i9KHFBxTDdDQ1ZSbmJsL3lrSmprbm52ZlpZZFg3Yz1aICIe/9pPZWFGNW55bUFvd3BNekh3OWJrQldXY0IyWjg9Za8b6LoS6wEIBRLmAQocRTQxcDd3SWdmcm45bm9JdExObFJrWEI2S1RZPRJmWjpBRHF0QVp6VnhBaWhKOTNhVjRNM3pNNXljSk9OYU4zZ2RjUEg4d2hGZ0cxMVpZVjBKTWMwNmJ1bThRbXo5U01vd1ZIUnRMZXNVcVk0bDZ0MkhaVUtYZHZsN3RtZUNEZy9HQT09GAAgACgAMKjp0OzY9oQDOLK61JfkMUCyutSX5DFKHHVsbUVCaXdnWEFYWmo3S3BGSUtmRVBTUlArZz1aHiIccHRGWnFWcGtLdGlSN2NFVUVsUllzcldxZlQ0PWX0IvUbEuwBCAkS5wEKHFgwaXlqR1JQMFpER3ZBRVZHK3JoczBuMi9WMD0SZlo6QURxdEFaelZ4QWloSjkzYVY0TTN6TTV5Y0pPTjhQZE80b3crQS9UZE9YYVZZdkdTU1hRYlZUaXd5L2Y4RTJrMTE3ZWlYOEJiL0ZPaTNiY3VreXhHdjZtWWVLNXBUcWdBK0E9PRgAIAAoADCazMHJyqaGAzju/5qY1DBA7v+amNQwShw1dStBMTlpVkplWDhNVU1ES2xTTVIzdVV3ZUU9Wh8iHbtNeXhTbFRNRG43TC9GM1lqTkw2SEdUMXhNNTQ9ZXbJR7MS7QEIGhLoAQocZmdvMGE3OEdjVitEZm1uRW1MckJ5bmlJait3PRJmWjpBRHF0QVp6VnhBaWhKOTNhVjRNM3pNNXljSk9OVmFKSGZkZ0RNcmVkNm12MVZPajlKQXNSekpJSVNud0VSSkUxaFNkYWIxVjUwUkdMWXlpNUhkdEZWM0RheWVrN2lOcVdhUT09GAAgACgAMIyiyJumxf4COO66ucf7MEDuurnH+zBKHGtRaVJFQXlsQ2tIZjJtSndnYlVONHByOG0xVT1aICIe//94QkF6bmZrY2t1TWhudm4vZVJaaVZoTU9Xajg9ZYnGgykSrQIIDxKoAgocRjRWclNpeGd3eksxN2hKOFYzanovaTVKZTlBPRKmAVo6QURxdEFad2ZmSFExZGdzWnl3RWorQXdRc1hLeW43amFrVUhOYVpXSWNDNHBSUVF4UG4vM1VGNER6SnB5SXo5eVFiN2xuTkhTaHdGZm81NGc5RkZtYVV0L2VOMFNBWnl4VUFkdndqVStHS21Sb09OalZyTzBNTUN0Q3l0bHV0dGIvLzFsRzRMQVZUeThrR3VoTkJRRzE4MnltNDIrWjJsR3FnPT0YACAAKAAwnKaqvO+lggM45bP95+wuQOWz/efsLkocbWlIT0IxNU4xRzlmNlJDcm5CSGlwOHZ5YmVjPVofIh33QnRYZFV5OG1NWElQSGJ4RjE4UkdPa3JjbU4wPWUAAAAAEuwBCAwS5wEKHHJmQldOWVQ2Vit0a1grQlNUTHVaczA1NHF1UT0SZlo6QURxdEFaelZ4QWloSjkzYVY0TTN6TTV5Y0pPTnloY05ubkFJR3dHMndEYlUzZFVxSjRGU2FjRGw1WjM5RGRoNW9DbUp1YWVhWVZBUjVJeUQ1dmk2akR3cTA3UHZLQWVFQXc9PRgAIAAoADCG1Mu365z8AjjTnKDO1TBA05ygztUwShx5eWs3TjJtMytrWXEzbmF1a3h5b055TGFDKzA9Wh8iHfZKa0ViMi9YTmFzb3VWYzlDRzZnaGxLYjVxOGM9ZSEhAFsS6wEIBhLmAQocR3BnWVRIL2RmZWNnYnVrdE5kQjRuR0RqZFhrPRJmWjpBRHF0QVp6VnhBaWhKOTNhVjRNM3pNNXljSk9OYkErNVRtaWdObU04WGVpK2g1SklCc1FkSEo4NGl1bzlEWjhyM3hYZEtxYVBYeDk3bXFsMDhPZzhycEJ4c2xVTEtONDZLUT09GAAgAigCMM6n/ZvNqYwDOO3/mpjUMEDM6eix3TJKHEkrUTFNMnl4cnRrcnRQUW5zMmFqcnRwUzZldz1aHiIcR2NwOWgvU3gxMCttcjZ5RnVSTkFocGlTSE1rPWWbPYW2EqwCCA0SpwIKHENsK29uMjAwcW9QcHpQL1pjK3h0UWZmK3JKUT0SpgFaOkFEcXRBWndmZkhRMWRnc1p5d0VqK0F3UXNYS3luN2pha1VITmFaV0ljQzRwUlFReFBxNzVPT1lRVEVRTXIxNHRNcHpaWU9Eb2YzL3YrLy9FeEJsS0lMTlJTREZxTkFkZHNwcW1lOEhxY0NLWVA1dVZoOGxscE51ZGppVmpWajYrY08wNFNBUFBxaHBubnlYcDF3Y2JISmZucTdFZ1hMOW05QT09GAAgACgAMKOi98uL6fYCOIWOm4TbLkCFjpuE2y5KHHFRNFpPNHpONk82ejVtUk01MnBRYjRubE5oYz1aHiIcZjhWUSt1K3NmNmZSYWNJYWRjRGJvYWRKb1FNPWUE5rWUEuwBCAoS5wEKHE1jYmpPNlR0VFcyaUlEa3pFWG9neWdjY2xSZz0SZlo6QURxdEFaelZ4QWloSjkzYVY0TTN6TTV5Y0pPTm9wOGxHWWJtUnpKZjRuSGpvai9RWHJSNko2RkNsYStSWnpSUW5mYUptbnFneU0zYWdINzVYampvd3psRWt0YklKc01RdEE9PRgAIAAoADDWsJWJqPmIAzi7uJaHpjJAu7iWh6YyShx4RVFRYjJmK1h4Uzk2V2J0NGdsbzdwNTdzN0E9Wh8iHd13RFp3TmttRjhlWVlTMkNoWFpNdXVCblRkRlk9ZQAAAAAS6wEIBxLmAQocTEhVQ0ZONWFVb3RsL0hDUTFNdDd5UDNSUkdRPRJmWjpBRHF0QVp6VnhBaWhKOTNhVjRNM3pNNXljSk9ObXg4ak8xRWI3STZ1VSs3K0lTN1I0WGdmTWFmWHdrdEIrREg3bkMwY0l4QlRPYlpWd0VDUVppM3luUVV4R0JsR2dkTzFuQT09GAAgACgAMKHvnp7gnokDOO3/mpjUMEDt/5qY1DBKHEhrUkRES3NXb2J4bmx6UXgrajJCb1paZS9qUT1aHiIcVENiaU5Cd2V1UnVhWlVaMW5HOGxaSHZXbnQ0PWX9nIxKEu0BCBkS6AEKHGlJdm9adXVxcm83dTBsbGFMTlV0d2VJWHVOWT0SZlo6QURxdEFaelZ4QWloSjkzYVY0TTN6TTV5Y0pPTjVLVS9xbXhyL2dpa09JUXZhUUJ6MFYyVG81NkZGd0xGVkQzR21ZMkc5TUJqVU55K0JscEdWaFRnQ3RNWllSM0VVYWI0ZVE9PRgAIAAoADCXoofj67/+AjjcmYbu+jBA3JmG7vowShxOV0hYQ010dmw1aEhXN0xaUExOdjdPeU9LTkk9WiAiHv//YjZ5MWRpa0dBSVI2K0lDa0F4ZUs1RzA0ZzZrPWX6kd7bEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaenpZSUpXTTNrekk1M1R1TlFkTys2cXhwS2h3ZStFcVFYMHpBSkRnSloxcXBKN3UxblpGU0M1R3dZdjhiNnBEdmxJYzJQRBgAIAAoADDc9cSo05KLAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}

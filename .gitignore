@@ -1,0 +1,4 @@
+# Ignore potentially sensitive files
+.ssh/id_*
+.ssh/*.pem
+.gnupg/

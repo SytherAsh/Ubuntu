@@ -1,0 +1,359 @@
+[apps/update-manager]
+check-new-release-ignore='noble'
+first-run=false
+launch-count=11
+launch-time=int64 1745258615
+
+[com/gexperts/Tilix/profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+visible-name='Default'
+
+[com/ubuntu/update-notifier]
+release-check-time=uint32 1744526124
+
+[org/gnome/Totem]
+active-plugins=['vimeo', 'open-directory', 'skipto', 'screensaver', 'save-file', 'screenshot', 'movie-properties', 'rotation', 'variable-rate', 'recent', 'mpris', 'apple-trailers', 'autoload-subtitles']
+subtitle-encoding='UTF-8'
+
+[org/gnome/calculator]
+accuracy=9
+angle-units='degrees'
+base=10
+button-mode='basic'
+number-format='automatic'
+show-thousands=false
+show-zeroes=false
+source-currency=''
+source-units='degree'
+target-currency=''
+target-units='radian'
+window-position=(26, 23)
+word-size=64
+
+[org/gnome/calendar]
+active-view='month'
+window-maximized=true
+window-position=(0, 0)
+window-size=(1296, 741)
+
+[org/gnome/cheese]
+burst-delay=1000
+camera='HP TrueVision HD Camera'
+photo-x-resolution=1280
+photo-y-resolution=720
+video-x-resolution=1280
+video-y-resolution=720
+
+[org/gnome/control-center]
+last-panel='bluetooth'
+
+[org/gnome/deja-dup]
+backend='google'
+prompt-check='2025-04-21T18:06:24.939402Z'
+
+[org/gnome/desktop/a11y/applications]
+screen-keyboard-enabled=false
+screen-magnifier-enabled=false
+
+[org/gnome/desktop/a11y/keyboard]
+mousekeys-enable=false
+stickykeys-enable=false
+
+[org/gnome/desktop/app-folders]
+folder-children=['Utilities', 'YaST']
+
+[org/gnome/desktop/app-folders/folders/Utilities]
+apps=['gnome-abrt.desktop', 'gnome-system-log.desktop', 'nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.Connections.desktop', 'org.gnome.DejaDup.desktop', 'org.gnome.Dictionary.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.eog.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.fonts.desktop', 'org.gnome.seahorse.Application.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Usage.desktop', 'vinagre.desktop']
+categories=['X-GNOME-Utilities']
+name='X-GNOME-Utilities.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[org/gnome/desktop/calendar]
+show-weekdate=false
+
+[org/gnome/desktop/input-sources]
+per-window=false
+sources=[('xkb', 'us')]
+xkb-options=@as []
+
+[org/gnome/desktop/interface]
+color-scheme='prefer-dark'
+enable-animations=false
+gtk-theme='Yaru-dark'
+icon-theme='Yaru'
+locate-pointer=false
+show-battery-percentage=true
+toolkit-accessibility=false
+
+[org/gnome/desktop/notifications]
+application-children=['snap-store-ubuntu-software', 'firefox-firefox', 'org-gnome-calendar', 'gnome-network-panel', 'gnome-power-panel', 'org-gnome-totem', 'google-chrome', 'zoom-client-zoom-client', 'org-gnome-terminal', 'org-gnome-gedit', 'snapd-desktop-integration-snapd-desktop-integration', 'code-code', 'org-gnome-nautilus', 'brave-browser', 'org-gnome-evince', 'brave-hnpfjngllnobngcgfapefoaidbinmjnm-profile-1', 'org-gnome-dejadup', 'org-gnome-eog']
+show-banners=true
+
+[org/gnome/desktop/notifications/application/brave-browser]
+application-id='brave-browser.desktop'
+
+[org/gnome/desktop/notifications/application/brave-hnpfjngllnobngcgfapefoaidbinmjnm-profile-1]
+application-id='brave-hnpfjngllnobngcgfapefoaidbinmjnm-Profile_1.desktop'
+
+[org/gnome/desktop/notifications/application/code-code]
+application-id='code_code.desktop'
+
+[org/gnome/desktop/notifications/application/firefox-firefox]
+application-id='firefox_firefox.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-network-panel]
+application-id='gnome-network-panel.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[org/gnome/desktop/notifications/application/google-chrome]
+application-id='google-chrome.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-calendar]
+application-id='org.gnome.Calendar.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-dejadup]
+application-id='org.gnome.DejaDup.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-eog]
+application-id='org.gnome.eog.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-evince]
+application-id='org.gnome.Evince.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-gedit]
+application-id='org.gnome.gedit.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-terminal]
+application-id='org.gnome.Terminal.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-totem]
+application-id='org.gnome.Totem.desktop'
+
+[org/gnome/desktop/notifications/application/snap-store-ubuntu-software]
+application-id='snap-store_ubuntu-software.desktop'
+
+[org/gnome/desktop/notifications/application/snapd-desktop-integration-snapd-desktop-integration]
+application-id='snapd-desktop-integration_snapd-desktop-integration.desktop'
+
+[org/gnome/desktop/notifications/application/zoom-client-zoom-client]
+application-id='zoom-client_zoom-client.desktop'
+
+[org/gnome/desktop/peripherals/keyboard]
+numlock-state=true
+
+[org/gnome/desktop/peripherals/mouse]
+natural-scroll=false
+speed=-0.43382352941176472
+
+[org/gnome/desktop/peripherals/touchpad]
+edge-scrolling-enabled=false
+speed=0.5
+two-finger-scrolling-enabled=true
+
+[org/gnome/desktop/privacy]
+report-technical-problems=true
+
+[org/gnome/desktop/remote-desktop/rdp]
+enable=true
+tls-cert='/home/yashsawant/.local/share/gnome-remote-desktop/rdp-tls.crt'
+tls-key='/home/yashsawant/.local/share/gnome-remote-desktop/rdp-tls.key'
+view-only=false
+
+[org/gnome/desktop/remote-desktop/vnc]
+view-only=false
+
+[org/gnome/desktop/screensaver]
+lock-delay=uint32 0
+
+[org/gnome/desktop/search-providers]
+sort-order=['org.gnome.Contacts.desktop', 'org.gnome.Documents.desktop', 'org.gnome.Nautilus.desktop']
+
+[org/gnome/desktop/session]
+idle-delay=uint32 300
+
+[org/gnome/desktop/sound]
+event-sounds=true
+theme-name='__custom'
+
+[org/gnome/desktop/wm/keybindings]
+switch-to-workspace-2=['<Super>KP_Down']
+switch-to-workspace-3=['<Super>KP_Next']
+switch-to-workspace-4=['<Super>KP_Left']
+
+[org/gnome/eog/view]
+background-color='rgb(0,0,0)'
+use-background-color=true
+
+[org/gnome/evince]
+document-directory=@ms 'file:///home/yashsawant/Desktop/Exam'
+
+[org/gnome/evince/default]
+continuous=true
+dual-page=false
+dual-page-odd-left=false
+enable-spellchecking=true
+fullscreen=false
+inverted-colors=false
+show-sidebar=false
+sidebar-page='thumbnails'
+sidebar-size=132
+sizing-mode='automatic'
+window-ratio=(0.9916666666666667, 0.2814814814814815)
+
+[org/gnome/evolution-data-server]
+migrated=true
+network-monitor-gio-name=''
+
+[org/gnome/evolution-data-server/calendar]
+reminders-past=@as []
+
+[org/gnome/file-roller/dialogs/extract]
+recreate-folders=true
+skip-newer=false
+
+[org/gnome/file-roller/listing]
+list-mode='as-folder'
+name-column-width=250
+show-path=false
+sort-method='name'
+sort-type='ascending'
+
+[org/gnome/file-roller/ui]
+sidebar-width=200
+window-height=480
+window-width=600
+
+[org/gnome/gedit/plugins]
+active-plugins=['sort', 'docinfo', 'modelines', 'openlinks', 'spell', 'filebrowser']
+
+[org/gnome/gedit/plugins/filebrowser]
+root='file:///'
+tree-view=true
+virtual-root='file:///home/yashsawant/Desktop/SAWASH'
+
+[org/gnome/gedit/preferences/editor]
+scheme='Yaru-dark'
+
+[org/gnome/gedit/preferences/ui]
+show-tabs-mode='auto'
+
+[org/gnome/gedit/state/window]
+bottom-panel-size=140
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(1296, 694)
+state=43908
+
+[org/gnome/nautilus/compression]
+default-compression-format='zip'
+
+[org/gnome/nautilus/list-view]
+default-zoom-level='small'
+
+[org/gnome/nautilus/preferences]
+default-folder-viewer='list-view'
+search-filter-time-type='last_modified'
+search-view='list-view'
+
+[org/gnome/nautilus/window-state]
+initial-size=(890, 550)
+maximized=true
+
+[org/gnome/settings-daemon/plugins/media-keys]
+control-center=['<Primary><Alt>s']
+mic-mute=['<Primary>m']
+search=@as []
+volume-down=['AudioLowerVolume']
+volume-mute=['AudioMute']
+volume-up=['AudioRaiseVolume']
+www=['<Super>s']
+
+[org/gnome/settings-daemon/plugins/power]
+sleep-inactive-ac-timeout=3600
+sleep-inactive-ac-type='nothing'
+
+[org/gnome/shell]
+app-picker-layout=[{'software-properties-drivers.desktop': <{'position': <0>}>, 'org.gnome.Calendar.desktop': <{'position': <1>}>, 'gnome-language-selector.desktop': <{'position': <2>}>, 'org.gnome.Totem.desktop': <{'position': <3>}>, 'libreoffice-startcenter.desktop': <{'position': <4>}>, 'org.gnome.Calculator.desktop': <{'position': <5>}>, 'org.gnome.gedit.desktop': <{'position': <6>}>, 'libreoffice-calc.desktop': <{'position': <7>}>, 'simple-scan.desktop': <{'position': <8>}>, 'libreoffice-draw.desktop': <{'position': <9>}>, 'gnome-system-monitor.desktop': <{'position': <10>}>, 'libreoffice-impress.desktop': <{'position': <11>}>, 'org.gnome.Terminal.desktop': <{'position': <12>}>, 'libreoffice-math.desktop': <{'position': <13>}>, 'Utilities': <{'position': <14>}>, 'org.gnome.Mahjongg.desktop': <{'position': <15>}>, 'org.gnome.Mines.desktop': <{'position': <16>}>, 'org.gnome.PowerStats.desktop': <{'position': <17>}>, 'org.gnome.Cheese.desktop': <{'position': <18>}>, 'org.remmina.Remmina.desktop': <{'position': <19>}>, 'shotwell.desktop': <{'position': <20>}>, 'software-properties-gtk.desktop': <{'position': <21>}>, 'update-manager.desktop': <{'position': <22>}>}, {'gnome-session-properties.desktop': <{'position': <0>}>, 'usb-creator-gtk.desktop': <{'position': <1>}>, 'org.gnome.Sudoku.desktop': <{'position': <2>}>, 'org.gnome.Todo.desktop': <{'position': <3>}>, 'transmission-gtk.desktop': <{'position': <4>}>, 'zoom-client_zoom-client.desktop': <{'position': <5>}>, 'jupyter-notebook.desktop': <{'position': <6>}>, 'rhythmbox.desktop': <{'position': <7>}>, 'thunderbird.desktop': <{'position': <8>}>, 'snap-store_ubuntu-software.desktop': <{'position': <9>}>, 'yelp.desktop': <{'position': <10>}>, 'firefox_firefox.desktop': <{'position': <11>}>, 'jupyterlab.desktop': <{'position': <12>}>, 'htop_htop.desktop': <{'position': <13>}>}]
+favorite-apps=['brave-hnpfjngllnobngcgfapefoaidbinmjnm-Profile_1.desktop', 'google-chrome.desktop', 'brave-browser.desktop', 'code_code.desktop', 'org.gnome.Nautilus.desktop', 'gnome-control-center.desktop', 'org.gnome.Terminal.desktop']
+had-bluetooth-devices-setup=true
+welcome-dialog-last-shown-version='42.9'
+
+[org/gnome/shell/keybindings]
+screenshot=@as []
+show-screenshot-ui=['<Shift><Super>s']
+switch-to-application-2=@as []
+toggle-overview=@as []
+
+[org/gnome/software]
+check-timestamp=int64 1745258577
+update-notification-timestamp=int64 1745258580
+
+[org/gnome/system/location]
+enabled=false
+
+[org/gnome/terminal/legacy/profiles:]
+default='b1dcc9dd-5262-4d8d-a863-c897e6d979b9'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', '1b15852d-ac48-4e64-9436-6ee280232fad']
+
+[org/gnome/terminal/legacy/profiles:/:1b15852d-ac48-4e64-9436-6ee280232fad]
+background-color='rgb(78,31,234)'
+bold-color-same-as-fg=true
+bold-is-bright=true
+font='Monospace 12'
+foreground-color='rgb(252,252,252)'
+palette=['rgb(23,20,33)', 'rgb(192,28,40)', 'rgb(38,162,105)', 'rgb(162,115,76)', 'rgb(18,72,139)', 'rgb(163,71,186)', 'rgb(42,161,179)', 'rgb(208,207,204)', 'rgb(94,92,100)', 'rgb(246,97,81)', 'rgb(51,209,122)', 'rgb(233,173,12)', 'rgb(42,123,222)', 'rgb(192,97,203)', 'rgb(51,199,222)', 'rgb(255,255,255)']
+use-system-font=false
+use-theme-colors=false
+visible-name='YASH'
+
+[org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(46,52,54)'
+bold-is-bright=true
+font='Monospace 12'
+foreground-color='rgb(235,13,35)'
+palette=['rgb(23,20,33)', 'rgb(192,28,40)', 'rgb(16,227,130)', 'rgb(162,115,76)', 'rgb(18,72,139)', 'rgb(163,71,186)', 'rgb(42,161,179)', 'rgb(208,207,204)', 'rgb(94,92,100)', 'rgb(246,97,81)', 'rgb(51,209,122)', 'rgb(233,173,12)', 'rgb(42,123,222)', 'rgb(192,97,203)', 'rgb(51,199,222)', 'rgb(255,255,255)']
+use-system-font=false
+use-theme-colors=true
+
+[org/gtk/gtk4/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=173
+sort-column='modified'
+sort-directories-first=false
+sort-order='descending'
+type-format='category'
+window-size=(856, 374)
+
+[org/gtk/settings/color-chooser]
+custom-colors=[(0.94117647058823528, 0.94117647058823528, 0.94117647058823528, 1.0), (0.37647058823529411, 0.0, 0.0, 1.0), (1.0, 1.0, 0.0, 1.0), (0.3042824074074077, 0.1222222222222222, 0.91666666666666674, 1.0), (0.23529411764705882, 0.10588235294117647, 0.6705882352941176, 1.0), (0.23707692307692313, 0.10720000000000003, 0.67000000000000004, 1.0), (0.090196078431372548, 0.078431372549019607, 0.12941176470588237, 1.0), (0.9882352941176471, 0.9882352941176471, 0.9882352941176471, 1.0)]
+selected-color=(true, 1.0, 1.0, 1.0, 1.0)
+
+[org/gtk/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=332
+sort-column='name'
+sort-directories-first=false
+sort-order='descending'
+type-format='category'
+window-position=(103, 27)
+window-size=(1231, 694)
+
+[system/proxy]
+mode='auto'

@@ -1,0 +1,62 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+shift+a",
+        "command": "python.execInDedicatedTerminal"
+    },
+    {
+        "key": "ctrl+tab ctrl+enter",
+        "command": "chatEditor.action.accept",
+        "when": "chat.hasEditorModifications && editorFocus && hasUndecidedChatEditingResource"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "-chatEditor.action.accept",
+        "when": "chat.hasEditorModifications && editorFocus && hasUndecidedChatEditingResource"
+    },
+    {
+        "key": "ctrl+tab ctrl+enter",
+        "command": "workbench.action.chat.applyInEditor",
+        "when": "accessibleViewInCodeBlock && chatIsEnabled || chatIsEnabled && inChat && !inChatInput"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "-workbench.action.chat.applyInEditor",
+        "when": "accessibleViewInCodeBlock && chatIsEnabled || chatIsEnabled && inChat && !inChatInput"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "-workbench.action.chat.insertCodeBlock",
+        "when": "accessibleViewInCodeBlock && chatIsEnabled || chatIsEnabled && inChat && !inChatInput"
+    },
+    {
+        "key": "shift+backspace",
+        "command": "inlineChat.acceptChanges",
+        "when": "inlineChatHasProvider && inlineChatVisible"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "-inlineChat.acceptChanges",
+        "when": "inlineChatHasProvider && inlineChatVisible"
+    },
+    {
+        "key": "shift+enter",
+        "command": "github.copilot.generate",
+        "when": "editorTextFocus && github.copilot.activated && !commentEditorFocused && !inInteractiveInput && !interactiveEditorFocused"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "-github.copilot.generate",
+        "when": "editorTextFocus && github.copilot.activated && !commentEditorFocused && !inInteractiveInput && !interactiveEditorFocused"
+    },
+    {
+        "key": "ctrl+shift+enter",
+        "command": "github.copilot.generate",
+        "when": "editorTextFocus && github.copilot.activated && !commentEditorFocused"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "-github.copilot.generate",
+        "when": "editorTextFocus && github.copilot.activated && !commentEditorFocused"
+    }
+]
