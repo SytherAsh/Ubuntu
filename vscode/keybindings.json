@@ -5,58 +5,47 @@
         "command": "python.execInDedicatedTerminal"
     },
     {
-        "key": "ctrl+tab ctrl+enter",
-        "command": "chatEditor.action.accept",
-        "when": "chat.hasEditorModifications && editorFocus && hasUndecidedChatEditingResource"
+        "key": "ctrl+shift+q",
+        "command": "sqltools.executeQuery",
+        "when": "editorHasSelection && editorTextFocus && !config.sqltools.disableChordKeybindings"
     },
     {
-        "key": "ctrl+enter",
-        "command": "-chatEditor.action.accept",
-        "when": "chat.hasEditorModifications && editorFocus && hasUndecidedChatEditingResource"
+        "key": "ctrl+e ctrl+e",
+        "command": "-sqltools.executeQuery",
+        "when": "editorHasSelection && editorTextFocus && !config.sqltools.disableChordKeybindings"
     },
     {
-        "key": "ctrl+tab ctrl+enter",
-        "command": "workbench.action.chat.applyInEditor",
-        "when": "accessibleViewInCodeBlock && chatIsEnabled || chatIsEnabled && inChat && !inChatInput"
+        "key": "ctrl+shift+x",
+        "command": "sqltools.executeCurrentQuery"
     },
     {
-        "key": "ctrl+enter",
-        "command": "-workbench.action.chat.applyInEditor",
-        "when": "accessibleViewInCodeBlock && chatIsEnabled || chatIsEnabled && inChat && !inChatInput"
+        "key": "ctrl+/",
+        "command": "-github.copilot.acceptCursorPanelSolution",
+        "when": "github.copilot.panelVisible && activeWebviewPanelId == 'GitHub Copilot Suggestions'"
     },
     {
-        "key": "ctrl+enter",
-        "command": "-workbench.action.chat.insertCodeBlock",
-        "when": "accessibleViewInCodeBlock && chatIsEnabled || chatIsEnabled && inChat && !inChatInput"
+        "key": "ctrl+shift+m",
+        "command": "workbench.action.chat.manageSettings"
     },
     {
-        "key": "shift+backspace",
-        "command": "inlineChat.acceptChanges",
-        "when": "inlineChatHasProvider && inlineChatVisible"
+        "key": "ctrl+shift+j",
+        "command": "-workbench.action.search.toggleQueryDetails",
+        "when": "inSearchEditor || searchViewletFocus"
     },
     {
-        "key": "ctrl+enter",
-        "command": "-inlineChat.acceptChanges",
-        "when": "inlineChatHasProvider && inlineChatVisible"
+        "key": "ctrl+shift+j",
+        "command": "code-runner.run"
     },
     {
-        "key": "shift+enter",
-        "command": "github.copilot.generate",
-        "when": "editorTextFocus && github.copilot.activated && !commentEditorFocused && !inInteractiveInput && !interactiveEditorFocused"
+        "key": "ctrl+alt+n",
+        "command": "-code-runner.run"
     },
     {
-        "key": "ctrl+enter",
-        "command": "-github.copilot.generate",
-        "when": "editorTextFocus && github.copilot.activated && !commentEditorFocused && !inInteractiveInput && !interactiveEditorFocused"
+        "key": "ctrl+shift+n",
+        "command": "code-runner.runByLanguage"
     },
     {
-        "key": "ctrl+shift+enter",
-        "command": "github.copilot.generate",
-        "when": "editorTextFocus && github.copilot.activated && !commentEditorFocused"
-    },
-    {
-        "key": "ctrl+enter",
-        "command": "-github.copilot.generate",
-        "when": "editorTextFocus && github.copilot.activated && !commentEditorFocused"
+        "key": "ctrl+alt+j",
+        "command": "-code-runner.runByLanguage"
     }
 ]

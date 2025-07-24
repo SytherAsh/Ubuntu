@@ -1,4 +1,19 @@
 {
     "files.autoSave": "afterDelay",
-    "python.createEnvironment.trigger": "off"
+    "workbench.iconTheme": "vscode-icons",
+    "redhat.telemetry.enabled": true,
+    "java.jdt.ls.java.home": "/usr/lib/jvm/java-8-openjdk-amd64",
+    "terminal.integrated.focusAfterRun": "terminal",
+    "testing.automaticallyOpenPeekViewDuringAutoRun": true,
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.smoothScrolling": true,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "accessibility.verbosity.terminal": false,
+    "accessibility.hideAccessibleView": true
+
+
 }

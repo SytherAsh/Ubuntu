@@ -21,5 +21,4 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 # 
 # m h  dom mon dow   command
-* * * * * /usr/local/bin/bt_auto_connect.sh
-* * * * * /usr/local/bin/bt_mobile_connect.sh
+@reboot /usr/local/bin/bt_auto_connect.sh

@@ -36,11 +36,11 @@ deb http://in.archive.ubuntu.com/ubuntu/ jammy-updates multiverse
 deb http://in.archive.ubuntu.com/ubuntu/ jammy-backports main restricted universe multiverse
 # deb-src http://in.archive.ubuntu.com/ubuntu/ jammy-backports main restricted universe multiverse
 
-deb http://security.ubuntu.com/ubuntu jammy-security main restricted
+deb http://in.archive.ubuntu.com/ubuntu/ jammy-security main restricted
 # deb-src http://security.ubuntu.com/ubuntu jammy-security main restricted
-deb http://security.ubuntu.com/ubuntu jammy-security universe
+deb http://in.archive.ubuntu.com/ubuntu/ jammy-security universe
 # deb-src http://security.ubuntu.com/ubuntu jammy-security universe
-deb http://security.ubuntu.com/ubuntu jammy-security multiverse
+deb http://in.archive.ubuntu.com/ubuntu/ jammy-security multiverse
 # deb-src http://security.ubuntu.com/ubuntu jammy-security multiverse
 
 # This system was installed using small removable media
