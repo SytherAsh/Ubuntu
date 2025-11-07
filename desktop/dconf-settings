@@ -1,15 +1,15 @@
 [apps/update-manager]
 check-new-release-ignore='noble'
 first-run=false
-launch-count=23
-launch-time=int64 1753252475
+launch-count=36
+launch-time=int64 1762528593
 
 [com/gexperts/Tilix/profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
 visible-name='Default'
 
 [com/ubuntu/update-notifier]
 regular-auto-launch-interval=7
-release-check-time=uint32 1753252468
+release-check-time=uint32 1762138552
 
 [org/gnome/Totem]
 active-plugins=['vimeo', 'open-directory', 'skipto', 'screensaver', 'save-file', 'screenshot', 'movie-properties', 'rotation', 'variable-rate', 'recent', 'mpris', 'apple-trailers', 'autoload-subtitles']
@@ -49,11 +49,12 @@ video-x-resolution=1280
 video-y-resolution=720
 
 [org/gnome/control-center]
-last-panel='keyboard'
+last-panel='sound'
 
 [org/gnome/deja-dup]
 backend='google'
-prompt-check='2025-06-29T02:25:19.959316Z'
+include-list=['$HOME', '/home/yashsawant/Desktop']
+prompt-check='disabled'
 
 [org/gnome/desktop/a11y/applications]
 screen-keyboard-enabled=false
@@ -95,7 +96,7 @@ show-battery-percentage=true
 toolkit-accessibility=false
 
 [org/gnome/desktop/notifications]
-application-children=['snap-store-ubuntu-software', 'firefox-firefox', 'org-gnome-calendar', 'gnome-network-panel', 'gnome-power-panel', 'org-gnome-totem', 'google-chrome', 'zoom-client-zoom-client', 'org-gnome-terminal', 'org-gnome-gedit', 'snapd-desktop-integration-snapd-desktop-integration', 'code-code', 'org-gnome-nautilus', 'brave-browser', 'org-gnome-evince', 'brave-hnpfjngllnobngcgfapefoaidbinmjnm-profile-1', 'org-gnome-dejadup', 'org-gnome-eog', 'apport-gtk', 'gnome-control-center', 'org-gnome-baobab', 'brave-hnpfjngllnobngcgfapefoaidbinmjnm-profile-3', 'mountable-volume-fcf054a3f0546644', 'org-gnome-todo', 'timeshift-gtk', 'org-gnome-fileroller']
+application-children=['snap-store-ubuntu-software', 'firefox-firefox', 'org-gnome-calendar', 'gnome-network-panel', 'gnome-power-panel', 'org-gnome-totem', 'google-chrome', 'zoom-client-zoom-client', 'org-gnome-terminal', 'org-gnome-gedit', 'snapd-desktop-integration-snapd-desktop-integration', 'code-code', 'org-gnome-nautilus', 'brave-browser', 'org-gnome-evince', 'brave-hnpfjngllnobngcgfapefoaidbinmjnm-profile-1', 'org-gnome-dejadup', 'org-gnome-eog', 'apport-gtk', 'gnome-control-center', 'org-gnome-baobab', 'brave-hnpfjngllnobngcgfapefoaidbinmjnm-profile-3', 'mountable-volume-fcf054a3f0546644', 'org-gnome-todo', 'timeshift-gtk', 'org-gnome-fileroller', 'org-telegram-desktop-3e485da34fc040f9218e3891ecde1e6c', 'code', 'discord', 'libreoffice-calc', 'cursor', 'org-gnome-evolution-alarm-notify']
 show-banners=true
 
 [org/gnome/desktop/notifications/application/apport-gtk]
@@ -113,6 +114,15 @@ application-id='brave-hnpfjngllnobngcgfapefoaidbinmjnm-Profile_3.desktop'
 [org/gnome/desktop/notifications/application/code-code]
 application-id='code_code.desktop'
 
+[org/gnome/desktop/notifications/application/code]
+application-id='code.desktop'
+
+[org/gnome/desktop/notifications/application/cursor]
+application-id='cursor.desktop'
+
+[org/gnome/desktop/notifications/application/discord]
+application-id='discord.desktop'
+
 [org/gnome/desktop/notifications/application/firefox-firefox]
 application-id='firefox_firefox.desktop'
 
@@ -127,6 +137,9 @@ application-id='gnome-power-panel.desktop'
 
 [org/gnome/desktop/notifications/application/google-chrome]
 application-id='google-chrome.desktop'
+
+[org/gnome/desktop/notifications/application/libreoffice-calc]
+application-id='libreoffice-calc.desktop'
 
 [org/gnome/desktop/notifications/application/mountable-volume-fcf054a3f0546644]
 application-id='mountable-volume:FCF054A3F0546644.desktop'
@@ -146,6 +159,9 @@ application-id='org.gnome.eog.desktop'
 [org/gnome/desktop/notifications/application/org-gnome-evince]
 application-id='org.gnome.Evince.desktop'
 
+[org/gnome/desktop/notifications/application/org-gnome-evolution-alarm-notify]
+application-id='org.gnome.Evolution-alarm-notify.desktop'
+
 [org/gnome/desktop/notifications/application/org-gnome-fileroller]
 application-id='org.gnome.FileRoller.desktop'
 
@@ -164,6 +180,9 @@ application-id='org.gnome.Todo.desktop'
 [org/gnome/desktop/notifications/application/org-gnome-totem]
 application-id='org.gnome.Totem.desktop'
 
+[org/gnome/desktop/notifications/application/org-telegram-desktop-3e485da34fc040f9218e3891ecde1e6c]
+application-id='org.telegram.desktop._3e485da34fc040f9218e3891ecde1e6c.desktop'
+
 [org/gnome/desktop/notifications/application/snap-store-ubuntu-software]
 application-id='snap-store_ubuntu-software.desktop'
 
@@ -181,7 +200,7 @@ numlock-state=true
 
 [org/gnome/desktop/peripherals/mouse]
 natural-scroll=false
-speed=-0.5
+speed=0.014705882352941124
 
 [org/gnome/desktop/peripherals/touchpad]
 edge-scrolling-enabled=false
@@ -210,6 +229,7 @@ sort-order=['org.gnome.Contacts.desktop', 'org.gnome.Documents.desktop', 'org.gn
 idle-delay=uint32 0
 
 [org/gnome/desktop/sound]
+allow-volume-above-100-percent=true
 event-sounds=true
 theme-name='__custom'
 
@@ -236,13 +256,18 @@ show-sidebar=false
 sidebar-page='thumbnails'
 sidebar-size=132
 sizing-mode='automatic'
-window-ratio=(0.99183006535947715, 0.28156565656565657)
+window-ratio=(0.99113022443219978, 0.28150946085593131)
 
 [org/gnome/evolution-data-server]
 migrated=true
 network-monitor-gio-name=''
 
 [org/gnome/evolution-data-server/calendar]
+notify-window-height=279
+notify-window-paned-position=48
+notify-window-width=215
+notify-window-x=26
+notify-window-y=23
 reminders-past=@as []
 
 [org/gnome/evolution]
@@ -256,7 +281,7 @@ skip-newer=false
 list-mode='as-folder'
 name-column-width=250
 show-path=false
-sort-method='name'
+sort-method='time'
 sort-type='descending'
 
 [org/gnome/file-roller/ui]
@@ -270,7 +295,7 @@ active-plugins=['sort', 'docinfo', 'modelines', 'openlinks', 'spell', 'filebrows
 [org/gnome/gedit/plugins/filebrowser]
 root='file:///'
 tree-view=true
-virtual-root='file:///home/yashsawant/Desktop/SAWASH'
+virtual-root='file:///home/yashsawant/Desktop/SAWASH/Ubuntu'
 
 [org/gnome/gedit/preferences/editor]
 scheme='Yaru-dark'
@@ -295,12 +320,12 @@ default-compression-format='zip'
 default-zoom-level='standard'
 
 [org/gnome/nautilus/preferences]
-default-folder-viewer='icon-view'
+default-folder-viewer='list-view'
 search-filter-time-type='last_modified'
 search-view='list-view'
 
 [org/gnome/nautilus/window-state]
-initial-size=(890, 550)
+initial-size=(673, 327)
 maximized=true
 
 [org/gnome/nm-applet/eap/099aefe5-93d4-4d37-8656-25797f2bf474]
@@ -337,7 +362,7 @@ sleep-inactive-ac-type='nothing'
 
 [org/gnome/shell]
 app-picker-layout=[{'software-properties-drivers.desktop': <{'position': <0>}>, 'org.gnome.Calendar.desktop': <{'position': <1>}>, 'gnome-language-selector.desktop': <{'position': <2>}>, 'org.gnome.Totem.desktop': <{'position': <3>}>, 'libreoffice-startcenter.desktop': <{'position': <4>}>, 'org.gnome.Calculator.desktop': <{'position': <5>}>, 'org.gnome.gedit.desktop': <{'position': <6>}>, 'libreoffice-calc.desktop': <{'position': <7>}>, 'simple-scan.desktop': <{'position': <8>}>, 'libreoffice-draw.desktop': <{'position': <9>}>, 'gnome-system-monitor.desktop': <{'position': <10>}>, 'libreoffice-impress.desktop': <{'position': <11>}>, 'libreoffice-math.desktop': <{'position': <12>}>, 'Utilities': <{'position': <13>}>, 'org.gnome.Mahjongg.desktop': <{'position': <14>}>, 'org.gnome.Mines.desktop': <{'position': <15>}>, 'org.gnome.PowerStats.desktop': <{'position': <16>}>, 'org.gnome.Cheese.desktop': <{'position': <17>}>, 'org.remmina.Remmina.desktop': <{'position': <18>}>, 'shotwell.desktop': <{'position': <19>}>, 'software-properties-gtk.desktop': <{'position': <20>}>, 'update-manager.desktop': <{'position': <21>}>}, {'gnome-session-properties.desktop': <{'position': <0>}>, 'usb-creator-gtk.desktop': <{'position': <1>}>, 'org.gnome.Sudoku.desktop': <{'position': <2>}>, 'org.gnome.Todo.desktop': <{'position': <3>}>, 'transmission-gtk.desktop': <{'position': <4>}>, 'zoom-client_zoom-client.desktop': <{'position': <5>}>, 'vscode-workspace-SPIT.desktop': <{'position': <6>}>, 'rhythmbox.desktop': <{'position': <7>}>, 'thunderbird.desktop': <{'position': <8>}>, 'snap-store_ubuntu-software.desktop': <{'position': <9>}>, 'yelp.desktop': <{'position': <10>}>, 'firefox_firefox.desktop': <{'position': <11>}>, 'org.kde.kdeconnect.app.desktop': <{'position': <12>}>, 'htop_htop.desktop': <{'position': <13>}>, 'org.kde.kdeconnect.nonplasma.desktop': <{'position': <14>}>, 'org.kde.kdeconnect-settings.desktop': <{'position': <15>}>, 'org.kde.kdeconnect.sms.desktop': <{'position': <16>}>, 'libreoffice-writer.desktop': <{'position': <17>}>, 'org.kde.okular.desktop': <{'position': <18>}>, 'vscode-workspace.desktop': <{'position': <19>}>, 'info.desktop': <{'position': <20>}>, 'org.wireshark.Wireshark.desktop': <{'position': <21>}>, 'brave-hnpfjngllnobngcgfapefoaidbinmjnm-Profile_3.desktop': <{'position': <22>}>}]
-favorite-apps=['brave-browser.desktop', 'org.gnome.Terminal.desktop', 'code.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Todo.desktop', 'gnome-control-center.desktop', 'org.gnome.Evince.desktop']
+favorite-apps=['brave-browser.desktop', 'org.gnome.Terminal.desktop', 'code.desktop', 'org.gnome.Nautilus.desktop', 'discord.desktop', 'org.gnome.Evince.desktop', 'gnome-control-center.desktop', 'cursor.desktop']
 had-bluetooth-devices-setup=true
 welcome-dialog-last-shown-version='42.9'
 
@@ -348,8 +373,8 @@ switch-to-application-2=@as []
 toggle-overview=@as []
 
 [org/gnome/software]
-check-timestamp=int64 1753333095
-update-notification-timestamp=int64 1753252438
+check-timestamp=int64 1762528599
+update-notification-timestamp=int64 1762528602
 
 [org/gnome/system/location]
 enabled=false
@@ -396,7 +421,7 @@ sort-column='modified'
 sort-directories-first=false
 sort-order='descending'
 type-format='category'
-window-size=(856, 374)
+window-size=(848, 374)
 
 [org/gtk/settings/color-chooser]
 custom-colors=[(0.74509803921568629, 0.80784313725490198, 0.8666666666666667, 1.0), (0.94117647058823528, 0.94117647058823528, 0.94117647058823528, 1.0), (0.37647058823529411, 0.0, 0.0, 1.0), (1.0, 1.0, 0.0, 1.0), (0.3042824074074077, 0.1222222222222222, 0.91666666666666674, 1.0), (0.23529411764705882, 0.10588235294117647, 0.6705882352941176, 1.0), (0.23707692307692313, 0.10720000000000003, 0.67000000000000004, 1.0), (0.090196078431372548, 0.078431372549019607, 0.12941176470588237, 1.0)]

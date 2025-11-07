@@ -1,58 +1,40 @@
 #!/bin/bash
-# This script helps restore your backed up configurations
-# Run it from within your backup directory
+echo "🌱 Starting restoration process..."
+read -p "This may overwrite existing configs. Continue? (y/n): " confirm
+[ "$confirm" != "y" ] && echo "❌ Cancelled." && exit 1
 
-echo "This script will help you restore your Ubuntu configurations"
-echo "WARNING: This may overwrite existing configurations"
-read -p "Continue? (y/n): " confirm
+echo "⚙️ Restoring shell configurations..."
+cp -v shell_configs/.*rc "$HOME/" 2>/dev/null
 
-if [ "$confirm" != "y" ]; then
-    echo "Restoration cancelled."
-    exit 1
-fi
-
-# Restore shell configs
-echo "Restoring shell configurations..."
-cp -v shell_configs/.zshrc $HOME/ 2>/dev/null
-cp -v shell_configs/.bashrc $HOME/ 2>/dev/null
-cp -v shell_configs/.profile $HOME/ 2>/dev/null
-cp -v shell_configs/.bash_profile $HOME/ 2>/dev/null
-cp -v shell_configs/.bash_aliases $HOME/ 2>/dev/null
-
-# Restore packages
-echo "Restoring package selections (this may take time)..."
+echo "⚙️ Restoring package selections..."
 sudo dpkg --set-selections < packages/dpkg-selections.txt
-sudo apt-get update
-sudo apt-get dselect-upgrade
+sudo apt-get update && sudo apt-get dselect-upgrade -y
 
-# For VSCode extensions
-if [ -f vscode/extensions.txt ] && which code > /dev/null; then
-    echo "Reinstalling VSCode extensions..."
-    cat vscode/extensions.txt | xargs -L 1 code --install-extension
+echo "⚙️ Restoring VSCode settings..."
+mkdir -p "$HOME/.config/Code/User/"
+cp -v vscode/*.json "$HOME/.config/Code/User/" 2>/dev/null
+if [ -f vscode/extensions.txt ]; then
+  cat vscode/extensions.txt | xargs -L 1 code --install-extension
 fi
 
-# Restore VSCode settings
-echo "Restoring VSCode settings..."
-mkdir -p $HOME/.config/Code/User/
-cp -v vscode/settings.json $HOME/.config/Code/User/ 2>/dev/null
-cp -v vscode/keybindings.json $HOME/.config/Code/User/ 2>/dev/null
+echo "⚙️ Restoring Cursor settings..."
+mkdir -p "$HOME/.config/Cursor/User/"
+cp -v cursor/*.json "$HOME/.config/Cursor/User/" 2>/dev/null
+if [ -f cursor/extensions.txt ]; then
+  cat cursor/extensions.txt | xargs -L 1 cursor --install-extension
+fi
 
-# Restore Git config
-echo "Restoring Git configurations..."
-cp -v git/.gitconfig $HOME/ 2>/dev/null
-cp -v git/.gitignore_global $HOME/ 2>/dev/null
+echo "⚙️ Restoring Git configs..."
+cp -v git/* "$HOME/" 2>/dev/null
 
-# Restore crontab
 if [ -f cron/crontab ]; then
-    echo "Restoring cron jobs..."
-    crontab cron/crontab
+  echo "⚙️ Restoring cron jobs..."
+  crontab cron/crontab
 fi
 
-# Restore desktop settings
 if [ -f desktop/dconf-settings ]; then
-    echo "Restoring desktop settings..."
-    dconf load / < desktop/dconf-settings
+  echo "⚙️ Restoring desktop environment..."
+  dconf load / < desktop/dconf-settings
 fi
 
-echo "Restoration completed!"
-echo "Some changes may require logging out and back in or restarting applications."
+echo "✅ Restoration complete! Please restart your system."

@@ -1,0 +1,34 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "vscode-icons",
+    "redhat.telemetry.enabled": true,
+    "java.jdt.ls.java.home": "/usr/lib/jvm/java-8-openjdk-amd64",
+    "terminal.integrated.focusAfterRun": "terminal",
+    "testing.automaticallyOpenPeekViewDuringAutoRun": true,
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.smoothScrolling": true,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "accessibility.verbosity.terminal": false,
+    "accessibility.hideAccessibleView": true,
+    "python.createEnvironment.trigger": "off",
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.zip": "default"
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "cursor.cpp.disabledLanguages": [
+        "plaintext",
+        "markdown",
+        "scminput"
+    ],
+    "workbench.colorTheme": "Default Dark Modern",
+    "cursor.cpp.enablePartialAccepts": true
+}

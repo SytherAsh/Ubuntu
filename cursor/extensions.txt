@@ -2,14 +2,17 @@
 aaron-bond.better-comments
 adpyke.codesnap
 adpyke.vscode-sql-formatter
+adrianwilczynski.format-selection-as-html
 akamud.vscode-theme-onedark
 alefragnani.project-manager
+anysphere.cursorpyright
 arturock.gitstash
 batisteo.vscode-django
 bbenoist.shell
 bibhasdn.django-html
 bibhasdn.git-easy
 codezombiech.gitignore
+davidanson.vscode-markdownlint
 devsense.composer-php-vscode
 dline.cobaltnext
 docker.docker
@@ -22,7 +25,6 @@ edwinhuish.better-comments-next
 esbenp.prettier-vscode
 faiztechnics.sqlplus-runner
 felipecaputo.git-project-manager
-fierrof.bg3txt-formatter
 formulahendry.code-runner
 foxundermoon.shell-format
 github.codespaces
@@ -31,6 +33,7 @@ github.copilot-chat
 github.github-vscode-theme
 github.vscode-github-actions
 github.vscode-pull-request-github
+grapecity.gc-excelviewer
 inferrinizzard.prettier-sql-vscode
 juanblanco.solidity
 kevinrose.vsc-python-indent
@@ -38,11 +41,11 @@ language-anew.colour
 mechatroner.rainbow-csv
 mgesbert.python-path
 mhutchie.git-graph
+mongodb.mongodb-vscode
 ms-azuretools.vscode-containers
 ms-azuretools.vscode-docker
 ms-python.debugpy
 ms-python.python
-ms-python.vscode-pylance
 ms-python.vscode-python-envs
 ms-toolsai.datawrangler
 ms-toolsai.jupyter
@@ -68,6 +71,7 @@ visualstudioexptteam.intellicode-api-usage-examples
 visualstudioexptteam.vscodeintellicode
 vscjava.vscode-java-dependency
 vscode-icons-team.vscode-icons
+vscode-infra.image-viewer
 waderyan.gitblame
 wholroyd.jinja
 xshrim.txt-syntax

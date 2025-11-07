@@ -3,9 +3,9 @@
 /usr/share/applications/bleachbit-root.desktop
 /usr/share/applications/bluetooth-sendto.desktop
 /usr/share/applications/brave-browser.desktop
-/usr/share/applications/code.desktop
-/usr/share/applications/code-url-handler.desktop
 /usr/share/applications/com.brave.Browser.desktop
+/usr/share/applications/cursor.desktop
+/usr/share/applications/cursor-url-handler.desktop
 /usr/share/applications/evolution-calendar.desktop
 /usr/share/applications/firefox.desktop
 /usr/share/applications/gcr-prompter.desktop

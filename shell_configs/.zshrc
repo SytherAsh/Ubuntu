@@ -40,15 +40,6 @@ alias ls='ls --color=auto'
 alias ll='ls -lh'
 alias la='ls -lah'
 
-# 4️⃣ Enable Syntax Highlighting (⚠️ Slows terminal a bit — comment to test performance)
-# if [[ -f /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh ]]; then
-#   source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-# fi
-
-# 5️⃣ Enable Command Autosuggestions (⚠️ Also slows terminal — comment to improve speed)
-# if [[ -f /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh ]]; then
-#   source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-# fi
 
 # 6️⃣ Useful Aliases for Developers
 alias grep='grep --color=auto'
@@ -62,9 +53,9 @@ alias on='source bin/activate'
 alias off='deactivate'
 
 # Git Aliases
-alias g='git'
+alias gi='git init'
 alias gs='git status'
-alias ga='git add .'
+alias ga='git add'
 alias gc='git commit -m'
 alias gp='git push origin main '
 alias gl='git log '
@@ -84,7 +75,6 @@ alias jn='active && jupyter notebook'
 alias leetcode='brave-browser --profile-directory="Profile 2" --new-window "https://leetcode.com/problemset/" '
 alias gfg='brave-browser --profile-directory="Profile 2" --new-window  "https://www.geeksforgeeks.org/user/sawash09am/"'
 alias github='brave-browser --profile-directory="Profile 2" --new-window  "https://github.com/SytherAsh"'
-alias dis='brave-browser --profile-directory="Profile 2" --new-window  "https://discord.com/channels/1226542217741467689/1226542217741467692"'
 alias gpt='brave-browser --profile-directory="Profile 2" --new-window  "https://chatgpt.com/"'
 alias smk='brave-browser --profile-directory="Profile 3" --new-window  "https://smashkarts.io/"'
 alias yts='brave-browser --profile-directory="Profile 3" --new-window  "https://yts.mx/"'

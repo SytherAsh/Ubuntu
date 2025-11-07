@@ -1,26 +1,15 @@
-# Ubuntu Configuration Backup
+# 🐧 Ubuntu Configuration Backup
 
-This directory contains a backup of your Ubuntu system configurations and installed packages.
+This folder contains your full Ubuntu environment backup — including:
+- Shell & user configs
+- Installed packages (APT, Snap, Flatpak)
+- VSCode and Cursor editor settings + extensions
+- Git, SSH, and Cron configurations
+- Desktop themes and bookmarks
 
-## Contents
-
-- `shell_configs/`: Shell configuration files (.zshrc, .bashrc, etc.)
-- `packages/`: Lists of installed packages and repository sources
-- `vscode/`: VSCode settings and extension list
-- `ssh/`: SSH configuration (excluding private keys)
-- `git/`: Git configuration
-- `cron/`: Crontab entries
-- `desktop/`: Desktop environment settings
-- `browsers/`: Browser bookmarks
-
-## Restoration
-
-A `restore.sh` script is included to help you restore these configurations.
-Run it from within this backup directory:
-
-```
+## 🔁 To Restore:
+```bash
+cd ~/Desktop/SAWASH/Ubuntu
 chmod +x restore.sh
 ./restore.sh
-```
 
-Note: The restore script will overwrite existing configurations.
